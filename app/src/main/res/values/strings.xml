@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lesson6VariansMenu</string>
+    <string name="option_menu">Option Menu</string>
+    <string name="context_menu">Context Menu</string>
+    <string name="popup_menu">PopUp Menu</string>
+    <string name="variasi_menu">Variasi Menu</string>
+    <string name="created_by_arif_ginanjar">~ Created by Arif Ginanjar ~</string>
+    <string name="menu_1">Menu 1</string>
+    <string name="menu_2">Menu 2</string>
+    <string name="menu_3">Menu 3</string>
+    <string name="klik_disini">klik disini</string>
+    <string name="copy">Copy</string>
+    <string name="cut">Cut</string>
+    <string name="delete">Delete</string>
+</resources>
